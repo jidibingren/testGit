@@ -1,0 +1,1 @@
+#define TESTGIT 1
